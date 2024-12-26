@@ -2,7 +2,7 @@
 <h3 align="left">🚀 About Me</h3> 
 <p align="justify"> I'm Zaid Ahamed Baig, a passionate Web Developer and AI Enthusiast skilled in C++, Python, JavaScript, and frameworks like React.js and Node.js. I enjoy building innovative web applications and leveraging AI/ML to solve real-world problems</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidahamedbaig&label=Profile%20views&color=0e75b6&style=flat" alt="zaidahamedbaig" /> </p>
+
 
 - 🔭 I’m currently working on [View-Play](https://github.com/Zaidahamedbaig/View-Play)
 
